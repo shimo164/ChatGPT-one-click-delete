@@ -12,6 +12,7 @@ A Chrome extension that automatically skips confirmation dialogs when deleting C
 ## Usage
 
 After installation, confirmation dialogs will be automatically skipped when deleting conversations in ChatGPT.
+Click the three-dot menu for a conversation, then press `D` to trigger Delete from the menu.
 
 ## Supported Sites
 
